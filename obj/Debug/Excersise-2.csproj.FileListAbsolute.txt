@@ -1,0 +1,17 @@
+E:\CurrentProjects\Excersises\Excersise-2\bin\Excersise-2.dll.config
+E:\CurrentProjects\Excersises\Excersise-2\bin\Excersise-2.dll
+E:\CurrentProjects\Excersises\Excersise-2\bin\Excersise-2.pdb
+E:\CurrentProjects\Excersises\Excersise-2\obj\Debug\Excersise-2.dll
+E:\CurrentProjects\Excersises\Excersise-2\obj\Debug\Excersise-2.pdb
+E:\CurrentProjects\Excersises\Excersise-2\obj\Debug\Excersise-2.csprojResolveAssemblyReference.cache
+C:\CurrentProjects\Adi\Assignment2\bin\Excersise-2.dll
+C:\CurrentProjects\Adi\Assignment2\bin\Excersise-2.pdb
+C:\CurrentProjects\Adi\Assignment2\obj\Debug\Excersise-2.csprojResolveAssemblyReference.cache
+C:\CurrentProjects\Adi\Assignment2\obj\Debug\Excersise-2.dll
+C:\CurrentProjects\Adi\Assignment2\obj\Debug\Excersise-2.pdb
+C:\Users\admin1\Downloads\Assignment2\Assignment2\bin\Excersise-2.dll.config
+C:\Users\admin1\Downloads\Assignment2\Assignment2\bin\Excersise-2.dll
+C:\Users\admin1\Downloads\Assignment2\Assignment2\bin\Excersise-2.pdb
+C:\Users\admin1\Downloads\Assignment2\Assignment2\obj\Debug\Excersise-2.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Downloads\Assignment2\Assignment2\obj\Debug\Excersise-2.dll
+C:\Users\admin1\Downloads\Assignment2\Assignment2\obj\Debug\Excersise-2.pdb

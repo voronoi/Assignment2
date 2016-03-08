@@ -1,0 +1,6 @@
+C:\Users\admin1\Documents\Visual Studio 2015\Projects\Assignment2\bin\Excersise-2.dll.config
+C:\Users\admin1\Documents\Visual Studio 2015\Projects\Assignment2\bin\Excersise-2.dll
+C:\Users\admin1\Documents\Visual Studio 2015\Projects\Assignment2\bin\Excersise-2.pdb
+C:\Users\admin1\Documents\Visual Studio 2015\Projects\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Documents\Visual Studio 2015\Projects\Assignment2\obj\Debug\Excersise-2.dll
+C:\Users\admin1\Documents\Visual Studio 2015\Projects\Assignment2\obj\Debug\Excersise-2.pdb
